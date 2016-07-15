@@ -36,7 +36,6 @@ public class MainActivity extends AppCompatActivity {
     public void logAll(View v) {
         MLog.d(SIMPLE_LOG);
         MLog.i(SIMPLE_LOG);
-
     }
 
     public void logWithLong(View v) {
