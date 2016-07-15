@@ -6,5 +6,3 @@ MLog是一款吸收了KLog、Logger、Timber等众多优秀的Log工具库的有
 2. 支持Log打印日志跳转到代码相应行;
 3. 支持格式化打印JSON内容;
 4. 支持格式化打印XML内容;
-          
-       
